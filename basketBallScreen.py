@@ -96,3 +96,4 @@ class MainFrame(wx.Frame):
 app = wx.App()
 MainFrame(None, -1, 'widgets communicate')
 app.MainLoop()
+exit()
