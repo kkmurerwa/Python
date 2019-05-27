@@ -1,7 +1,7 @@
 top_row = [["1", "2", "3"], ["4", "5", "6"], ["7", "8", "9"]]
 player_one = input("Enter player one's name\n")
 player_two = input("Enter player two's name\n")
-#print(top_row[0][0])
+#
 turn = True
 moves = 0
 win = False
